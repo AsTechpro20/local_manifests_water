@@ -13,4 +13,10 @@
     <project path="hardware/mediatek" name="android_hardware_mediatek" remote="LOS" revision="lineage-20" />
   
     <!-- Vendor -->
-    <project path="vendor/xiaomi/water" name="vendor_xiaomi_water" remote="cranckv3" revision="13" />
+    <project path="vendor/xiaomi/water" name="vendor_xiaomi_water" remote="astechpro20" revision="13" />
+    
+    <!-- Vendor-ims -->
+    <project path="vendor/xiaomi/ims-water" name="proprietary_vendor_xiaomi_ims-water" remote="astechpro20" revision="13" />
+    
+    <!-- Sepolicy -->
+    <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" remote="LOS" revision="lineage-20" />
