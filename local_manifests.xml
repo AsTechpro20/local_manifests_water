@@ -20,8 +20,5 @@
 
   <!-- Vendor -->
   <project path="vendor/xiaomi/water" name="vendor_xiaomi_water" remote="astechpro20" revision="13" />
-  
-  <!-- Kernel -->
-  <project path="kernel/xiaomi/water" name="kernel_android_water" remote="astechpro20" revision="13" />
 
 </manifest>
