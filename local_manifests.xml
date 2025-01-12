@@ -7,7 +7,7 @@
   <remote name="astechpro20" fetch="https://github.com/AsTechpro20" />
   
   <!-- Device Trees -->
-  <project path="device/xiaomi/water" name="android_hardware_mediatek" remote="astechpro20" revision="lineage-21" />
+  <project path="device/xiaomi/water" name="android_device_water_lineage" remote="astechpro20" revision="14" />
   
   <!-- Vendor-ims -->
   <project path="vendor/xiaomi/ims-water" name="proprietary_vendor_xiaomi_ims-water" remote="astechpro20" revision="13" />
@@ -16,6 +16,6 @@
   <project path="vendor/xiaomi/water" name="vendor_xiaomi_water" remote="astechpro20" revision="13" />
 
   <!-- Hardware -->
-  <project path="hardware/mediatek" name="vendor_xiaomi_water" remote="LOS" revision="13" />
+  <project path="hardware/mediatek" name="android_hardware_mediatek" remote="LOS" revision="lineage-21" />
 
 </manifest>
